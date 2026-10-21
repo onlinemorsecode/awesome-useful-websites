@@ -36,7 +36,6 @@ Certain websites are tagged with the symbols listed below for convenience.
 Each website is included only once. Some websites can fall into multiple categories. If you can't find what you need in a specific category, search for keywords or explore other relevant categories as well. To look up websites, use the [raw](https://raw.githubusercontent.com/atakanaltok/awesome-useful-websites/refs/heads/main/README.md) version.
 
 # Contents
-
 - [Awesome Useful Websites](#awesome-useful-websites)
   - [Nomenclature](#nomenclature)
 - [Contents](#contents)
@@ -210,7 +209,6 @@ Each website is included only once. Some websites can fall into multiple categor
 - [LICENSE](#license)
 
 <br>
-
 ## Tools
 
 - [5000Best Tools](https://5000best.com/tools/) - 5000 tools.
@@ -232,7 +230,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Speaking Time Calculator](https://speakingtimecalculator.org) – A free online tool to estimate speaking or presentation time from text using adjustable speaking speed (WPM).
 - [Focus Game](https://focus-game.org) - A lightweight browser-based focus training game for improving concentration through short interactive sessions.
 - [Schulte Table](https://schulte-table.org) - A web-based Schulte table tool for training visual attention, peripheral vision, and speed reading.
-
+- [Online Morse Code](https://onlinemorsecode.com/) - Free browser-based Morse code translator with adjustable-speed CW audio, WAV download, audio decoding, printable chart and learning guides.
 ### White Board
 
 - [TypeHere](https://typehere.co/) - Blank website where you can only type.
@@ -342,7 +340,6 @@ Each website is included only once. Some websites can fall into multiple categor
 - [XLSXForm](https://xlsxform.com/) - Build forms and store all data entry in .xlsx file format.
 
 ## DIY
-
 - [WikiHow](https://www.wikihow.com/Main-Page) - A collaborative platform for creating and sharing how-to guides.
 - [ManualsLib](https://www.manualslib.com/) - Online repository of user manuals and guides.
 - [This to That](https://thistothat.com/) - Learn how to glue different materials together.
@@ -414,7 +411,6 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Business English Resources](https://www.businessenglishresources.com/) - A collection of free resources for improving your business English skills.
 - [Digital Glossary](https://www.digital-glossary.com/) - Provides terminological words in Turkish, English, and German for digital contexts.
 - [Bilim Terimleri](https://terimler.org/) - Turkish platform providing explanations and definitions for various terms.
-
 ## Travel
 
 - [Airheart - Travel Restrictions](https://airheart.com/travel-restrictions/united-states-vaccinated) - Stay informed about travel restrictions and requirements for your trip, including COVID-19 restrictions.
@@ -504,7 +500,6 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Xerces Society](https://xerces.org) - Guidance on the conservation of pollinators and invertebrates, including habitat restoration and sustainable practices, is available.
 - [Beyond Pesticides](https://beyondpesticides.org) - Resources on organic and sustainable practices for reducing pesticide use and protecting public health and the environment are provided.
 - [National Pesticide Information Center](https://npic.orst.edu) - Science-based information on pesticide use, safety guidelines, and factsheets for consumers and health professionals is offered.
-
 ## Music / Audio
 
 - [KHInsider](https://downloads.khinsider.com/) - Video and PC game soundtracks for download in MP3 and lossless formats.
@@ -529,7 +524,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Bandura Festival](https://bandura.ukrzen.in.ua/en#lvivbandurfest) - Online Bandura, a traditional Ukrainian instrument.
 - [AllMusic](https://www.allmusic.com/) - Provides comprehensive and in-depth information on albums, artists, songs, and bands, serving as a valuable resource for music enthusiasts.
 - [ASMR Microphones](https://asmrmicrophones.com) - Reviews, comparisons, and expert opinions on various ASMR microphones are provided to help users select the most suitable equipment.
-- [Omnichord Online](https://www.omnichordonline.com) - It is an online simulator for the classic instrument **Omnichord OM-27**. You can play it anytime for free in your PC or mobile browser, enjoying its authentic sound and the joy of creation.
+- [Omnichord Online](https://www.omnichordonline.com) - It is an online simulator for the classic instrument **Omnichord OM-27**. You can play it anytime for free in your PC or mobile browser, enjoying its authentic sound and the joy of creation.
 - [Tonalux](https://tonalux.org/) - Browser-based audio production platform with spectrum analyzer, media converter, plugin comparer and curated plugin deals. No account required.
 
 ### Find Music
@@ -574,7 +569,6 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Spottr](https://spottr.vercel.app/login) - View your Spotify stats.
 - [Playlist Mutator](https://playlistmutator.com/) - Mutate existing playlists in React.
 - [TuneMyMusic](https://www.tunemymusic.com/) - Transfer playlists between music services.
-
 ## Movies and Series
 
 - [Kanopy](https://www.kanopy.com/en/) (@) - Streaming platform offering thousands of films for free with library or university support.
@@ -649,7 +643,6 @@ Each website is included only once. Some websites can fall into multiple categor
 ### Discord
 
 - [Blobs](https://blobs.gg/) - Collection of over 4400 fun and playful custom emoji for Discord.
-
 ## Economy
 
 - [Investopedia](https://www.investopedia.com/) - A source of financial education, news, and research for investors.
@@ -707,7 +700,6 @@ Each website is included only once. Some websites can fall into multiple categor
 - [When2meet](https://www.when2meet.com/) - A free service for scheduling group meetings. It allows users to create and participate in availability surveys to find the best time for a group to meet.
 - [Sessions](https://sessions.us/) - A web-based conferencing tool designed to enhance meetings. It aims to improve the overall meeting experience and is available for free.
 - [Form to Chatbot](https://formtochatbot.com/) - Convert Google forms into interactive conversations in the form of chatbots. This tool helps in creating engaging and dynamic interactions based on form responses.
-
 ## Jobs
 
 - [Y Combinator Jobs](https://www.ycombinator.com/jobs) - Discover the best startup jobs curated by Y Combinator.
@@ -775,7 +767,6 @@ Each website is included only once. Some websites can fall into multiple categor
 - [WTF Should I Do With My Life](https://www.wtfshouldidowithmylife.com/) - A resource to explore and learn about different occupations.
 - [path-to-polymath.notion](https://path-to-polymathy.notion.site/path-to-polymathy/Path-To-Polymathy-d7586429b7ce4db1889fc539822b9670) - Arrangement of every discipline and field out there, and what specific topics make them up.
 - [80,000 Hours](https://80000hours.org/) - Conducts research into the world's biggest problems, big industry questions, job boards, and general career advice to make a big impact.
-
 ## Startups
 
 - [Startup Growth Calculator](https://growth.tlb.org/) - Calculate how much funding your startup needs for growth.
@@ -843,7 +834,6 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Spline](https://spline.design/) - Create 3D scenes, edit materials, and model 3D objects, giving control over the outcome of design work.
 - [Visiwig](https://www.visiwig.com/) - Create graphics just by clicking and pasting.
 - [FreeType](https://freetype.org/) - Software library written in C for rendering fonts, capable of producing high-quality output of most vector and bitmap font formats, designed to be small, efficient, highly customizable, and portable.
-
 #### Colors
 
 - [HexColor](https://hexcolor.co/) - Offers various free color tools.
@@ -941,7 +931,6 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Ello](https://ello.co/discover)
 - [Behance](https://www.behance.net/)
 - [ArtStation](https://www.artstation.com/)
-
 ## Academia
 
 - [TLDR This](https://tldrthis.com/) - Platform to summarize any piece of text into concise, easy-to-digest content, helping users overcome information overload.
@@ -1009,7 +998,6 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Learning on the Internet](https://www.learningontheinternet.com/?ref=producthunt) - Platform featuring curated educational content and resources from various sources.
 - [Class Central](https://www.classcentral.com/) - Search engine and reviews platform for online courses, aggregating courses from various providers.
 - [OCW SNU](https://ocw.snu.ac.kr/) - Open CourseWare from Seoul National University.
-
 ## Science
 
 - [Reproducibility Institute](https://reproducibilityinstitute.org/w/) - Projects that provide academic papers, cheatsheets, and torrents for paid courses.
